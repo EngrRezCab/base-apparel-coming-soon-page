@@ -64,6 +64,6 @@ $(document).ready(function() {
 		changeOrientation();
 	});
 	// Begin execution.
-	clearInputs();
+	// clearInputs();
 	changeOrientation();
 });
