@@ -1,0 +1,124 @@
+.ancSubmit {
+	text-decoration: none;
+}
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+body {
+	background-color: #f0f0f0;
+}
+.divFooter {
+	padding: 5px;
+}
+.divForm {
+	border: 1px solid #dbcbcc;
+	border-radius: 25px;
+	margin: auto;
+	padding-bottom: 7px;
+	padding-top: 3px;
+	width: 310px;
+}
+.divInvalidEmail {
+	color: red;
+	display: none;
+	font-family: Arial;
+	font-size: small;
+	margin: auto;
+	overflow: hidden;
+	text-align: left;
+	width: 260px;
+} 
+.divLandscape {
+	display: none;
+	overflow: hidden;
+	padding: 40px;
+}
+.divLandscapeMain {
+	background-color: #fff6f5;
+	background-image: url("../images/bg-pattern-desktop.svg");
+	background-size: 50%;
+	overflow: hidden;
+	margin: auto;
+	width: 65%;
+}
+.divLandscapeLeft {
+	float: left;
+	padding: 40px;
+	width: 50%;
+}
+.divLandscapeRight {
+	float: right;
+	width: 40%;
+}
+.divMiddleInfo {
+	padding-bottom: 10px;
+	padding-top: 10px;
+	width: 100%;
+}
+.divPortrait {
+	background-color: #fff6f5;
+	display: none;
+	overflow: hidden;
+	margin: auto;
+	padding-bottom: 40px;
+}
+.divPortraitHeader {
+	padding: 40px;
+}
+.divPortraitBanner {
+	padding-bottom: 50px;
+}
+.divPortraitMiddle {
+	text-align: center;
+}
+.divType1 {
+	color: #c39fa1;
+	font-family: Arial;
+	font-size: 40px;
+}
+.divType2 {
+	font-family: Arial;
+	font-size: 40px;
+	font-weight: bold;
+}
+.imgArrow {
+	max-width: 100%;
+}
+.imgError {
+	display: none;
+	overflow: hidden;
+	max-width: 100%;
+}
+.imgBanner {
+	width: 100%;
+}
+.imgRight {
+	width: 100%;
+}
+.pghInfo {
+	color: #c39fa1;
+	font-family: Arial;
+	line-height: 1.5;
+} 
+.spnButton {
+	background-color: #f09c9c;
+	border-radius: 25px;
+	padding: 10px;
+}
+.spnButton:hover {
+	background-color: #f8cccd;
+}
+.spnError {
+	display: inline-block;
+	height: 25px;
+	width: 27px;
+}
+.txbEmail {
+	background-color: #fff6f5;
+	border: 0px;
+	height: 25px;
+}
